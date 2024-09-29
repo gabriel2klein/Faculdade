@@ -15,3 +15,6 @@ git commit -m "mensagem" (comando para fazer commit com mensagem)
 git push origin nome_da_branch (comando para enviar informações comitadas ao github)
 
 git pull origin nome_da_branch (comando para puxar informações do github) 
+
+bfdbdfbfdbrthjnrgtbd
+
