@@ -16,5 +16,4 @@ git push origin nome_da_branch (comando para enviar informações comitadas ao g
 
 git pull origin nome_da_branch (comando para puxar informações do github) 
 
-bfdbdfbfdbrthjnrgtbd
 
